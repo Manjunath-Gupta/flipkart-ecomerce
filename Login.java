@@ -6,4 +6,5 @@ public Main()
    float b;
        
        // New functionality goes here 
+       int c = i*10;
 }
