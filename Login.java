@@ -16,7 +16,9 @@ afdsdf\
 sdfasdfasdf
 //Adding new functionality
 
-
+ int a,b;
+ float b,c;
+ // Adding new functionality
 
 
 // New modify button functionality added
